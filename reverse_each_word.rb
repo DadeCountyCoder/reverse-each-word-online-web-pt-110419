@@ -1,2 +1,5 @@
 require 'pry'
-reverse
+
+def reverse
+
+end
